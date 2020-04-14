@@ -16,6 +16,10 @@ GourmetAR has four main touchpoints with their potential customers and customers
 
 A user hears about GourmetAR via a friend or on social media and visits the GourmetAR website and/or downloads the app. Then the user searches for a restaurant or scans a physical QR code, browses an augmented reality menu, places the desired dish as a virtual object on a table in front of him or her, checks out and places their order. The order can be placed before arrival, or at the location.
 
+An interactive prototype can be experienced [here](https://sketch.cloud/s/Rln4Q/a/7dvYz7/play).
+
+---
+
 ### Excerpts from Expert Interviews
 
 *	Some of the challenges we have right now include differentiating ourselves from our competition. Our product and the value we offer is better than our competitors – mainly due to the use of the augmented reality technology, but the restaurants who we must close deals with may not understand that.
@@ -29,10 +33,6 @@ A user hears about GourmetAR via a friend or on social media and visits the Gour
 *	Can we convince competing restaurants and fast-food chains to upload their products to our platform? We can provide them with customizable template, that will only have their own products, but they may still not want to use a service, that will also allow customers to check out their competitor’s offers.
 *	Another challenge we have is how to attract a core user base and make them excited about our product, such that they share it on social media to create a snowballing effect.
 *	Since we are just starting out, how can we convince restaurants or fast-food chains that working with us is the best choice? Why would they not go to a competitor, such as KabaQ?
-
----
-
-An interactive prototype can be experienced [here](https://sketch.cloud/s/Rln4Q/a/7dvYz7/play).
 
 ---
 
